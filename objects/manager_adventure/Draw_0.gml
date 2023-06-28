@@ -1,0 +1,1 @@
+draw_student_adventure(x,y,student_spr_num,student_right);

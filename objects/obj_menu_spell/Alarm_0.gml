@@ -1,0 +1,1 @@
+set_menu_spell(id,spell_num,obj_menu_title.menu_curr);

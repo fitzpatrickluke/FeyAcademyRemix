@@ -1,0 +1,8 @@
+Controls
+Menu Navigation: Mouse
+Move Character: Arrow Keys
+Run (Castle Only): Hold Shift
+Interact with Overworld Characters: Space
+Advance Dialogue: Press Space or Click Anywhere
+Open/Close Menu: Press M
+Go Back in Menu: Press B

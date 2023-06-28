@@ -1,0 +1,1 @@
+draw_sprite(spr_stairs,0,x,y);

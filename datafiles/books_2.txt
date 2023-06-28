@@ -1,0 +1,27 @@
+Elemental Strengths
+Every creature has one or two elemental types. Every character has a single elemental type. Every spell has a single elemental type. There are 8 elemental types. Each with different strengths and weaknesses. A spell will deal more damage to a type it is strong against and less damage to a type it is weak against. Note that a strike attack during battle deals no elemental damage.
+
+Water
+Effective: Fire, Earth
+Weak: Nature
+Earth
+Effective: Air
+Weak: Water, Nature
+Fire
+Effective: Dark
+Weak: Water, Light
+Air
+Effective: None
+Weak: Earth
+Nature
+Effective: Earth, Water, Magic
+Weak: Fire
+Magic
+Effective: None
+Weak: Nature
+Light
+Effective: Fire
+Weak: Dark
+Dark
+Effective: Light
+Weak: Fire

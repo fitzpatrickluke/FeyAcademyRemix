@@ -1,0 +1,1 @@
+set_spell_check_mp(id);

@@ -1,0 +1,1 @@
+set_equip_port(id, 3);

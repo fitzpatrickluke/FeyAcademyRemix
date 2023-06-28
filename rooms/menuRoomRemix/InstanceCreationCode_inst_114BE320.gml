@@ -1,0 +1,1 @@
+set_heal_spell(manager_students.master_student_1, id);

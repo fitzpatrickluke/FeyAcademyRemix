@@ -1,0 +1,1 @@
+set_shop_button_drop(31,id);

@@ -1,0 +1,1 @@
+set_shop_button_item(8,id);

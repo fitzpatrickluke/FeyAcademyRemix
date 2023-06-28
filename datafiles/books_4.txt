@@ -1,0 +1,70 @@
+Spells
+There are a variety of spells. Each spell is unique with different effects. Every spell has a primary effect. Some spells have a secondary effect. Each spell effect is outlined below.
+Attack
+Deal damage to the enemy based on the players magic stat and enemies defense stat. Damage is also affected the multiplier stat associated with the spell. 
+Charge Attack
+Deal damage to the enemy based on the players magic stat and enemies defense stat. Damage is also affected the multiplier stat associated with the spell. A charge attack will ignore all effects of defending, shielding, and reflection.
+Charge+ Attack
+Deal damage to the enemy based on the players magic stat and enemies defense stat. Damage is also affected the multiplier stat associated with the spell. A charge attack will ignore all effects of defending, shielding, and reflection. Charge+ deals more damage than regular charge.
+Multi Attack
+A multi attack has both a multiplier stat and a speed stat. The multiplier damage is calculated the same as a regular attack. Damage is then multiplied by the speed of the player divided by the speed stat of the attack rounded down.
+Double Attack
+Deal damage to the enemy based on the players magic stat and enemies defense stat. Damage is also affected the multiplier stat associated with the spell. Double attacks will always deal twice the damage.
+Whip Attack
+Deal damage to the enemy based on the players skill stat and enemies defense stat. Damage is also affected the multiplier stat associated with the spell. 
+Absorb Attack
+Deal damage to the enemy based on the players magic stat and enemies defense stat. Damage is also affected the multiplier stat associated with the spell. The player who cast the spell that heals HP equal to the amount of damage dealt.
+Instant Death
+Instant death spells have a percent chance to instantly defeat the enemy. No player stats affect the chance of success. Instant Death spells will always fail during boss battles.
+Petrify
+A petrify spell has a chance to inflict the petrified status condition onto the enemy. This is calculated using the spells multiplier as well as the player's skill stat.
+Curse
+A curse spell has a chance to inflict the cursed status condition onto the enemy. This is calculated using the spells multiplier as well as the player's skill stat.
+Blind
+A blind spell has a chance to inflict the blind status condition onto the enemy. This is calculated using the spells multiplier as well as the player's skill stat.
+Silence
+A silence spell has a chance to inflict the silenced status condition onto the enemy. This is calculated using the spells multiplier as well as the player's skill stat.
+Double Curse
+Double the damage an enemy received from curse damage. May be used multiple times. Does not affect enemies who do not have the curse status effect. 
+Heal
+Choose a player from the party to heal HP to. The amount of HP healed is affected by the spell casters magic stat. You may not heal a player that has 0 HP.
+Heal Party
+Heal HP to the entire party. The amount of HP healed is affected by the spell casters magic stat. Does not affect party members with 0 HP.
+Heal Status
+Choose a player from the party to heal their status condition. May not be used on a player with 0 HP.
+Revive
+Choose a player with 0 HP and revive them with full HP. May not be used on a player with 0 HP.
+Shield
+Shield a player to decrease the damage they may receive. A shielded player will always survive a fatal attack with 1 HP. May not be used on a player with 0 HP.
+Shield All
+Shield the entire party to decrease the damage they may receive. A shielded player will always survive a fatal attack with 1 HP. Does not affect party members with 0 HP.
+Reflect
+Reflect the damage received from an attack. Note that damage is not decreased like a shield spell. A reflected player will always survive a fatal attack with 1 HP. However, an enemy can die from damage received from a reflected spell. May not be used on a player with 0 HP.
+Mag Up
+Increase a player's magic stat for the duration of battle. The increased amount is specified by each spell. May not be used on a player with 0 HP.
+Def Up
+Increase a player's defense stat for the duration of battle. The increased amount is specified by each spell. May not be used on a player with 0 HP.
+Spd Up
+Increase a player's speed stat for the duration of battle. The increased amount is specified by each spell. May not be used on a player with 0 HP.
+Skl Up
+Increase a player's skill stat for the duration of battle. The increased amount is specified by each spell. May not be used on a player with 0 HP.
+All Up
+Increase a player's magic, defense, speed, and skill stats for the duration of battle. The increased amount is specified by each spell. May not be used on a player with 0 HP.
+Double Buff
+Double all current stat increases on a player. May not be used on a player with 0 HP.
+Mag Down
+Decrease an enemy's magic stat for the duration of battle.
+Def Down
+Decrease an enemy's defense stat for the duration of battle.
+Spd Down
+Decrease an enemy's speed stat for the duration of battle.
+Skl Down
+Decrease an enemy's skillstat for the duration of battle.
+All Down
+Decrease an enemy's magic, defense, speed, and skill stats for the duration of battle.
+Steal Buff
+Steal all of an enemies stat increases. Your stats will increase, while the enemy will no longer have the stat increases.
+HP phase down
+Decrease an enemy's current HP by half.
+Sacrifice
+Bring one's HP down to 1.

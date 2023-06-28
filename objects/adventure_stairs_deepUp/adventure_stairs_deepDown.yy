@@ -1,0 +1,42 @@
+{
+  "spriteId": {
+    "name": "col_spr_stairs",
+    "path": "sprites/col_spr_stairs/col_spr_stairs.yy",
+  },
+  "solid": false,
+  "visible": true,
+  "spriteMaskId": {
+    "name": "col_spr_stairs",
+    "path": "sprites/col_spr_stairs/col_spr_stairs.yy",
+  },
+  "persistent": false,
+  "parentObjectId": {
+    "name": "adventure_stairs",
+    "path": "objects/adventure_stairs/adventure_stairs.yy",
+  },
+  "physicsObject": false,
+  "physicsSensor": false,
+  "physicsShape": 1,
+  "physicsGroup": 1,
+  "physicsDensity": 0.5,
+  "physicsRestitution": 0.1,
+  "physicsLinearDamping": 0.1,
+  "physicsAngularDamping": 0.1,
+  "physicsFriction": 0.2,
+  "physicsStartAwake": true,
+  "physicsKinematic": false,
+  "physicsShapePoints": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"adventure_stairs_deepDown","path":"objects/adventure_stairs_deepDown/adventure_stairs_deepDown.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
+  "properties": [],
+  "overriddenProperties": [],
+  "parent": {
+    "name": "adventure",
+    "path": "folders/Objects/adventure.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "adventure_stairs_deepDown",
+  "tags": [],
+  "resourceType": "GMObject",
+}

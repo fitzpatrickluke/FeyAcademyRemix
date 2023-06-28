@@ -1,0 +1,28 @@
+Battle
+
+Spell
+During battle you may choose to cast a spell. Utilizing spells can help one achieve victory in battle. Spells are unlocked by level. Thus as a player levels up they will unlock more spells. Furthermore, each transformation has a set spell list unlocked when equipped. Refer to the transformations bookcase for a more detailed explanation. One may check the effect of each spell in the profile section of the menu. Each spell cost MP. A player must have enough MP to cast a spell. Once a spell is cast, the player's MP will decrease. Refer to the spells bookcase to view a more detailed explanation of the different spell effects. Each spell has an elemental type. Refer to the elemental strengths bookcase for a more detailed explanation.
+Strike
+Strike attacks deal an amount of damage based on the users magic stat and enemies defense stat. Thus as the player levels up, their strike attack will deal more damage. A strike attack cost 0 MP to use. A strike attack has no elemental type.
+Special
+Each transformation has a unique special attack that may be used. A special attack takes 6 turns to charge up. Once it is used the timer will reset. Thus choose wisely when to use your special attacks. Refer to the transformations bookcase for a more detailed explanation on the different special attacks.
+Defend
+When a player chooses to defend, all damage they take will be decreased by half. Furthermore, they will survive a fatal attack with 1 HP.
+Flee
+The flee option will allow the player to escape the current battle. Only boss battles do not allow the player to escape.
+Item
+A player may choose to use an item during battle. Certain items may not be used in battle. Once an item is used in battle, it will disappear from the player's bag.A player can obtain items from the shop. Refer to the item descriptions in the shop for a more detailed explanation on each item's effect. 
+Fainting
+When a player's HP goes down to 0, they will be unable to act during battle. Healing spells may not be used on a fainted player. To increase a player's HP one must use a reviving spell or item.
+Status Effects
+There are four status effects that can be inflicted onto both the player and enemy. Status effects will always be healed when a battle ends. Furthermore, one may use a status healing spell or item to heal the effect. Enemies can not heal their status effects during battle. 
+Status Effect: Petrify
+The petrified effect has a chance to make the affected unit to not do anything during their turn. An increased skill stat will decrease the chance petrify will take effect. This applies to all possible options in battle.
+Status Effect: Curse
+When a unit is cursed they will lose a small amount of HP at the end of each turn. The curse effect can kill.
+Status Effect: Blind
+When a unit is blinded, all spells that deal damage or cause a status effect will fail.
+Status Effect: Silence
+When a unit is silenced all support spells (healing, stat up, stat down) will fail. 
+Boss Battles
+At the end of each stratum lies a boss battle. Complete this boss battle to unlock the next stratum. Bosses are stronger than normal enemies, so come prepared. One cannot escape from a boss battle. Boss battles are overworld encounters. One must walk up to the boss to initiate battle.

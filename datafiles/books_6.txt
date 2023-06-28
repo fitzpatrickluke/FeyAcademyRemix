@@ -1,0 +1,152 @@
+Students
+Hana
+Fairy of Ponds
+Type: Water
+Specialty: Heal, All Up
+Allies: Enya, Lapis
+Lapis
+Fairy of the Deep Sea
+Type: Water
+Specialty: Charge Attack, Mag Up
+Allies: Hana, Fernando
+Fernando
+Fairy of Pearls
+Type: Water
+Specialty: Shield, Heal, All Down
+Allies: Lapis, Basil
+Bridgit
+Fairy of Dragons 
+Type: Fire
+Specialty: Charge, Heal
+Allies: Crystal, Vivian
+Enya
+Fairy of Ice Fire
+Type: Fire
+Specialty: Blind
+Allies: Hana
+Glenn
+Fairy of Amber Flames
+Type: Fire
+Specialty: Absorb Attack, Heal, Shield
+Allies: Damien, Chris
+Crystal
+Fairy of Crystals
+Type: Earth
+Specialty: Shield
+Allies: Bridgit, Vivian, Blanche, Basil
+Blanche
+Fairy of Silver
+Type: Earth
+Specialty: Multi Attack, Heal
+Allies: Crystal
+Chip
+Fairy of Metals
+Type: Earth
+Specialty: Petrify, Charge Attack
+Allies: none
+Arianna
+Fairy of Wind
+Type: Air
+Specialty: Spd Up/Down
+Allies: none
+Cindy
+Fairy of Bees
+Type: Air
+Specialty: Petrify, Heal
+Allies: Talia
+Gunter
+Fairy of Snow
+Type: Air
+Specialty: Generalist
+Allies: Nyx
+Talia
+Fairy of Trees
+Type: Nature
+Specialty: Shield, Def Up
+Allies: Cindy
+Tigris
+Fairy of Flowers
+Type: Nature
+Specialty: Heal
+Allies: Maria
+Basil
+Fairy of Poison
+Type: Nature
+Specialty: Curse
+Allies: Fernando, Crystal
+Vivian
+Fairy of Alchemy
+Type: Magic
+Specialty: Curse, Skl Up, Special
+Allies: Crystal, Bridgit, Damien
+Nyx
+Fairy of Mirrors
+Type: Magic
+Specialty: Reflect
+Allies: Gina, Gunter
+Damien
+Fairy of Constellations
+Type: Magic
+Specialty: Generalist
+Allies: Vivian, Chris, Glenn
+Paige
+Fairy of the Shining Sun
+Type: Light
+Specialty: Generalist
+Allies: Tasha, Vivian (Rival)
+Maria
+Fairy of Starlight
+Type: Light
+Specialty: Heal, Shield
+Allies: Tigris
+Chris
+Fairy of Prismatic Light
+Type: Light
+Specialty: Generalist
+Allies: Damien, Glenn
+Tasha
+Fairy of Ghosts
+Type: Dark
+Specialty: Status Effects
+Allies: Paige, Rocky
+Gina
+Fairy of 
+Type: Dark
+Specialty: Generalist
+Allies: Nyx
+Rocky
+Fairy of Shadows
+Type: Dark
+Specialty: Blind
+Allies: Tasha
+Special Students
+Bloom
+Fairy of the Dragon Flame
+Type: Fire
+Specialty: Generalist
+Allies: Stella
+Stella
+Fairy of the Shining Sun
+Type: Light
+Specialty: Blind, Heal
+Allies: Bloom
+Aisha
+Fairy of Waves
+Type: Water
+Specialty: Generalist
+Allies: none
+Flora
+Fairy of Nature
+Type: Nature
+Specialty: Heal
+Allies: none
+Tecna
+Fairy of Technology
+Type: Magic
+Specialty: Blind
+Allies: Petrify, Shield, Multi Attack
+Musa
+Fairy of Music
+Type: Air
+Specialty: Deaf, Def Down
+Allies: Tecna

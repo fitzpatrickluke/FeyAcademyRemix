@@ -1,0 +1,1 @@
+set_battle_button_item(8,id);

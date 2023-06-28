@@ -1,0 +1,1 @@
+draw_sprite_ext(spr,spr_counter,728+16,728+16,scale,scale,0,c_white,1);

@@ -1,0 +1,1 @@
+set_menu_spell(id,9,menus.profile1);

@@ -1,0 +1,36 @@
+Battle Terrain Effects
+Using two spells of different types can cause a battle terrain effect to appear. It does not matter what order the spells are cast. Most of these effects last 3 turns. Once a terrain effect is in use, no more can be created until the current effect ends.
+
+Steam
+Cause: Water, Fire
+Effect: Water spells deal 20% more damage. Earth spells deal 50% less damage. Fire spells deal 20% less damage. Air spells deal 50% more damage. Nature spells deal 50% more damage. Damage output of Magic, Light, and Dark spells does not change. When an earth type spell is used, the effect will disappear.
+Burning
+Cause: Fire, Nature
+Effect: Water spells deal 50% more damage. Earth spells deal 50% less damage. Fire spells deal 20% more damage. Air spells deal 50% more damage. Nature spells deal 20% less damage. Damage output of Magic, Light, and Dark spells does not change. When an earth type spell is used, the effect will disappear.
+Budding
+Cause: Nature, Water
+Effect: Water spells deal 20% less damage. Earth spells deal 50% less damage. Fire spells deal 50% more damage. Air spells deal 50% more damage. Nature spells deal 20% more damage. Damage output of Magic, Light, and Dark spells does not change. When an earth type spell is used, the effect will disappear.
+Storm:
+Cause: Magic, Air
+Effect: When a creature is petrified, the petrified status will always take effect.
+Metallic:
+Cause: Magic, Earth 
+Effect: All shield spells will also act as reflection spells.
+Void
+Cause: Dark, Air
+Effect: All stat decrease effects do not affect the player or the enemy. Note that this only affects stat decrease effects when they are the primary effect of a spell.
+Stardust
+Cause: Light, Earth
+Effect: Healing, Heal Status, Shield, and Reflect spells will affect the entire party.
+Nova
+Cause: Light, Fire
+Effect: The next attack used (player or enemy) will deal double damage. Once the attack is dealt the Nova effect will end. When an air type spell is used, the effect will disappear.
+Poison:
+Cause: Dark, Nature
+Effect: Curse damage will increase by 20% more damage for each turn this effect is in place. When an air type spell is used, the effect will disappear.
+Refresh:
+Cause: Magic, Water
+Effect: Healing spells will also always heal status. This affects both the player and enemy. When an air type spell is used, the effect will disappear.
+Eclipse
+Cause: Light, Dark
+Effect: Spells cost half as much MP.

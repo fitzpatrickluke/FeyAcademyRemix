@@ -1,0 +1,267 @@
+Transformations
+Every party member has a transformation. Each transformation has a unique set of spells. Transformations affect the stats increased upon level up. Furthermore, each transformation has a unique special attack they may used during battle. To unlock a transformation one must spend enough skill points into the required course. Only one transformation can be used at a time. 
+Skill Points
+Each transformation requires a certain course grade to unlock. One may increase these grades by spending skill points. A student may speak to headmistress Bloom to reset all their skill points. The minimum required points for each grade are as follows:
+E: Default Grade (0 points)
+D: 10 points
+C: 15 points
+B: 20 points
+A: 25 points
+S: 30 points
+The remaining books contain information on each transformation.
+Magix
+Required Courses:  - - 
+Stat Level Up:
+MAG: 1
+DEF: 1
+SPD: 1
+SKL: 1
+HP: 2
+MP: 1
+Spells: - -
+
+
+
+
+Special Attack:
+Attack 50, Untyped
+Charmix
+Required Courses: Astrology D OR Mythology D
+Stat Level Up:
+MAG: 1
+DEF: 1
+SPD: 2
+SKL: 2
+HP: 2
+MP: 1
+Spells:
+Sun Charm: Attack 20, Light, 4 MP
+Moon Charm: Attack 20, Dark, 4 MP
+Magic Charm: Mag Up 2, Magic, 4 MP
+Defense Charm: Def Up 2, Magic, 4 MP
+Special Attack:
+Attack 50, Unit All Up 2
+Mythix
+Required Courses: Enchantments D
+Stat Level Up:
+MAG: 3
+DEF: 1
+SPD: 1
+SKL: 1
+HP: 2
+MP: 1
+Spells:
+Water Glyph: Attack 20, Water, 4 MP
+Stone Glyph: Attack 20, Earth, 4 MP
+Fire Glyph: Attack 20, Fire, 4 MP
+Wind Glyph: Attack 20, Air, 4 MP
+Special Attack:
+Attack 50, Unit Heals all HP
+Lovix
+Required Courses: Elementology D OR Botany D
+Stat Level Up:
+MAG: 1
+DEF: 2
+SPD: 1
+SKL: 1
+HP: 4
+MP: 1
+Spells:
+Nature Shard: Attack 20, Nature, 4 MP
+Magic Shard: Attack 20, Magic, 4 MP
+Healing Shard: Heal 40, Light, 4 MP
+Shielding Shard: Shield 40, Earth, 4 MP
+Special Attack:
+Attack 50, Reflect 100
+Dreamix
+Required Courses: Astrology B
+Stat Level Up:
+MAG: 4
+DEF: 1
+SPD: 3
+SKL: 3
+HP: 4
+MP: 2
+Spells:
+Dreamlight Blast: Attack 60, Magic, 6 MP
+Flaming Aurora: Attack 60, Fire, 6 MP
+Endless Nightmare: Curse 50, Dark, 10 MP
+Mythical Enhancement: Mag Up 3, Magic, 6 MP
+Special Attack:
+Attack 100, Party All Up 2
+Harmonix
+Required Courses: Mythology B
+Stat Level Up:
+MAG: 3
+DEF: 3
+SPD: 2
+SKL: 2
+HP: 5
+MP: 2
+Spells:
+Wave of Oceans: Attack 60, Water, 6 MP
+Moonlight Arrow: Attack 60, Dark, 6 MP
+Ocean’s Song: All Down 3, Dark, 6 MP
+Mermadic Thrust: Absorb Attack 50, Water, 8 MP
+Special Attack:
+Attack 100, Transfer all Units Debuffs and Status Effect to enemy (Unit keeps debuffs and status effect)
+Sophix
+Required Courses: Botany B
+Stat Level Up:
+MAG: 3
+DEF: 2
+SPD: 2
+SKL: 2
+HP: 4
+MP: 2
+Spells:
+Fairy Order: Attack 60, Nature, 6 MP
+Sunlight Needle: Attack 60, Light, 6 MP
+Fairy’s Embrace: Heal 60, Nature, 6 MP
+Magical Pollen: Heal Status, Nature, 8 MP
+Special Attack:
+Party heals all HP, does not affect units with 0 HP
+Cosmix
+Required Courses: Elementology B
+Stat Level Up:
+MAG: 2
+DEF: 3
+SPD: 1
+SKL: 2
+HP: 6
+MP: 2
+Spells:
+Meteor Strike: Attack 60, Earth, 6 MP
+Whipping Winds: Attack 60, Air, 6 MP
+Space Dust Shield: Shield 60, Earth, 10 MP
+Neon Prism: Def Up 3, Magic, 6 MP
+Special Attack:
+Party Reflect 100
+Onyrix
+Required Courses: Astrology S
+Stat Level Up:
+MAG: 4
+DEF: 2
+SPD: 4
+SKL: 4
+HP: 6
+MP: 4
+Spells:
+Illuminating Eye: Attack 100, Magic, 10 MP
+Time-Space Manipulation: Skl Up 6, Magic, 12 MP
+Future Foretold: Curse 80, Magic, 12 MP
+Star Selection: Blind 100, Light, 20 MP
+Special Attack:
+Attack 200, Party Stat Increases Double
+Bloomix
+Required Courses: Astrology B AND Enchantments D
+Stat Level Up:
+MAG: 5
+DEF: 4
+SPD: 3
+SKL: 3
+HP: 8
+MP: 4
+Spells:
+Dragonic Bloom: Attack 100, Fire, 10 MP
+Flame Vortex: Charge Attack 60, Fire, 10 MP
+Flame of Creation: Mag Up 8, Fire, 12 MP
+Mythical Armor: Def Up 6, Light, 12 MP
+Special Attack:
+Attack 400
+Sirenix
+Required Courses: Mythology S
+Stat Level Up:
+MAG: 4
+DEF: 3
+SPD: 5
+SKL: 3
+HP: 6
+MP: 4
+Spells:
+Infinite Whirlpool: Attack 100, Water, 10 MP
+Midnight Essence: Attack 100, Dark, 10 MP
+Curse of Sirenix: Curse 100, Magic, 16 MP
+Abyssal Seal: All Down 4, Water, 14 MP
+Special Attack:
+Attack 200, Put a Status Effect on the enemy. Status Effect depends on Student
+Crystal Sirenix
+Required Courses: Mythology B AND Enchantments D
+Stat Level Up:
+MAG: 3
+DEF: 5
+SPD: 3
+SKL: 3
+HP: 8
+MP: 4
+Spells:
+Crystal Core Summoning: Attack 100, Water, 10 MP
+Crystal Whip: Whip Attack, 100, All Down 2, Earth, 16 MP
+Royal Shield: Shield 80, Light, 10 MP
+Wishing Pearl: All Up 4, Water, 14 MP
+Special Attack:
+Attack 200, Party All Up 10
+Butterflix
+Required Courses: Botany S
+Stat Level Up:
+MAG: 4
+DEF: 2
+SPD: 3
+SKL: 5
+HP: 8
+MP: 4
+Spells:
+Nature’s Wrath: Attack 100, Nature, 10 MP
+Floral Symphony: Heal Party 80, Nature, 8 MP
+Rainbow Wings: Spd Up 6, Light, 12 MP
+Nature's Resonance: Silence 200, Light, 20 MP
+Special Attack:
+Attack 200, If a battle terrain effect in play Attack 300
+Enchantix
+Required Courses: Botany B AND Enchantments D
+Stat Level Up:
+MAG: 6
+DEF: 1
+SPD: 4
+SKL: 4
+HP: 6
+MP: 4
+Spells:
+Explosion of Light: Attack 100, Light, 10 MP
+Fairy’s Sacrifice: Sacrifice, All Up 20, Light, 0 MP
+Rainbow Connection: Heal 100, Heal Status, Light, 10 MP
+Pixie Dust: Revive, Light, 16 MP
+Special Attack:
+Revives entire party, Party Heals all HP, Party heals Status Effects
+Tynix
+Required Courses: Elementology S
+Stat Level Up:
+MAG: 3
+DEF: 6
+SPD: 2
+SKL: 3
+HP: 10
+MP: 4
+Spells:
+Crystal Enchantment: Attack 100, Earth, 10 MP
+Sparkling Curtain: Shield All 80, Earth, 10 MP
+Jewels of Truth: Reflect 100, Earth, 16 MP
+Fairy Shine: Def Up 10, Earth, 10 MP
+Special Attack:
+Party Reflect 300
+Believix
+Required Courses: Elementology B AND Enchantments D
+Stat Level Up:
+MAG: 4
+DEF: 5
+SPD: 1
+SKL: 2
+HP: 10
+MP: 4
+Spells:
+The Four Winds: Attack 100, Air, 10 MP
+Vengeful Charge: Charge Attack 100, Dark, 14 MP
+Hopeful Charge: Charge Attack 100, Light, 14 MP
+Energy Trace: Attack 80, Magic, 8 MP
+Special Attack:
+Deal a random special attack from one of the other transformations

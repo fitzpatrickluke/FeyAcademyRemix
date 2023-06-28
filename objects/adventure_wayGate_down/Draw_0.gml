@@ -1,0 +1,1 @@
+draw_sprite(spr,spr_num,x,y-16*5);

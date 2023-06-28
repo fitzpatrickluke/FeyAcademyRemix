@@ -1,0 +1,1 @@
+obj_student_num = 1;

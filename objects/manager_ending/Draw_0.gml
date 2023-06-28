@@ -1,0 +1,51 @@
+draw_sprite(spr,8,0,0);
+if(start_on)
+{
+	draw_sprite_ext(spr,0,0,0,1,1,0,c_white,start_o);
+}
+else
+{
+if(pl_on)
+{
+	draw_sprite(spr,spr_counter,0,0);
+	draw_sprite_ext(spr,spr2_counter,0,0,1,1,0,c_white,spr_o);
+	
+	draw_sprite(spr_hana_walk_left,pl_counter,plx1,ply1);
+	draw_sprite(spr_crystal_walk_left,pl_counter,plx2,ply1);
+	draw_sprite(spr_bridgit_walk_left,pl_counter,plx3,ply1);
+	draw_sprite(spr_arianna_walk_left,pl_counter,plx4,ply1);
+	draw_sprite(spr_talia_walk_left,pl_counter,plx5,ply1);
+	draw_sprite(spr_vivian_walk_left,pl_counter,plx6,ply1);
+	draw_sprite(spr_paige_walk_left,pl_counter,plx7,ply1);
+	draw_sprite(spr_tasha_walk_left,pl_counter,plx8,ply1);
+	draw_sprite(spr_lapis_walk_left,pl_counter,plx1,ply2);
+	draw_sprite(spr_blanch_walk_left,pl_counter,plx2,ply2);
+	draw_sprite(spr_enya_walk_left,pl_counter,plx3,ply2);
+	draw_sprite(spr_cindy_walk_left,pl_counter,plx4,ply2);
+	draw_sprite(spr_tigris_walk_left,pl_counter,plx5,ply2);
+	draw_sprite(spr_nyx_walk_left,pl_counter,plx6,ply2);
+	draw_sprite(spr_maria_walk_left,pl_counter,plx7,ply2);
+	draw_sprite(spr_gina_walk_left,pl_counter,plx8,ply2);
+}
+else
+{
+	draw_sprite(spr,8,0,0);
+	
+	draw_sprite(spr_hana_walk_left,1,plx1,ply1);
+	draw_sprite(spr_crystal_walk_left,1,plx2,ply1);
+	draw_sprite(spr_bridgit_walk_left,1,plx3,ply1);
+	draw_sprite(spr_arianna_walk_left,1,plx4,ply1);
+	draw_sprite(spr_talia_walk_left,1,plx5,ply1);
+	draw_sprite(spr_vivian_walk_left,1,plx6,ply1);
+	draw_sprite(spr_paige_walk_left,1,plx7,ply1);
+	draw_sprite(spr_tasha_walk_left,1,plx8,ply1);
+	draw_sprite(spr_lapis_walk_left,1,plx1,ply2);
+	draw_sprite(spr_blanch_walk_left,1,plx2,ply2);
+	draw_sprite(spr_enya_walk_left,1,plx3,ply2);
+	draw_sprite(spr_cindy_walk_left,1,plx4,ply2);
+	draw_sprite(spr_tigris_walk_left,1,plx5,ply2);
+	draw_sprite(spr_nyx_walk_left,1,plx6,ply2);
+	draw_sprite(spr_maria_walk_left,1,plx7,ply2);
+	draw_sprite(spr_gina_walk_left,1,plx8,ply2);
+}
+}

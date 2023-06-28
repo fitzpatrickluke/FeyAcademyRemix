@@ -1,0 +1,1 @@
+obj_battle_menu_button.pause = false;
